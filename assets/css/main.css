@@ -2454,3 +2454,8 @@ input, select, textarea {
         text-align: right;
         margin-left: 150px;
     }
+
+    .skill {
+        max-width: 150px;
+        margin: 20px;
+    }
