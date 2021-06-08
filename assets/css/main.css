@@ -289,6 +289,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+        justify-content: center;
 	}
 
 		.row > * {
@@ -352,7 +353,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 40%;
 		}
 
 		.row > .off-4 {
@@ -1639,7 +1640,8 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: 100%;
+			width: 90%;
+            padding: 10px;
 			margin: 0 0 2em 0;
 		}
 
@@ -2458,4 +2460,8 @@ input, select, textarea {
     .skill {
         max-width: 150px;
         margin: 20px;
+    }
+
+    #pro1 {
+        padding: 10px;
     }
