@@ -7,6 +7,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+#about-me {
+    background-image: url("/images/geometric.jpeg");
+    color: darkslategrey;
+    margin-top: -50px;
+    margin-bottom: -50px;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2464,11 +2471,4 @@ input, select, textarea {
 
     #top-part {
         width: 33%
-    }
-
-    #about-me {
-        background-image: url("/images/geometric.jpeg");
-        color: darkslategrey;
-        margin-top: -50px;
-        margin-bottom: -50px;
     }
