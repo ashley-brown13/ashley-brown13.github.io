@@ -2462,6 +2462,13 @@ input, select, textarea {
         margin: 20px;
     }
 
-    #pro1 {
-        padding: 10px;
+    #top-part {
+        width: 33%
+    }
+
+    #about {
+        background-image: url("https://www.ppt-backgrounds.net/thumbs/writing-for-designers-clip-art-downloads.jpeg");
+        color: darkslategrey;
+        margin-top: -50px;
+        margin-bottom: -50px;
     }
